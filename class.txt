@@ -1,0 +1,92 @@
+
+Shafan Sugarman
+  9:45 AM
+joined #security along with 27 others.
+
+
+Shafan Sugarman
+  10:34 AM
+https://gdpr-info.eu/
+General Data Protection Regulation (GDPR)General Data Protection Regulation (GDPR)
+General Data Protection Regulation (GDPR) – Official Legal Text
+General Data Protection Regulation (EU GDPR) – The official PDF of the Regulation (EU) 2016/679, its recitals & key issues as a neatly arranged website.
+Est. reading time
+4 minutes
+:+1:
+1
+
+
+
+Eri Minaya
+  10:37 AM
+was added to #security by Shafan Sugarman
+, along with Nothando Ndlovu
+.
+New
+
+
+Shafan Sugarman
+  3:24 PM
+https://www.wireshark.org/download.html @channel
+3:25
+https://www.youtube.com/watch?v=zOYohNOnWp4
+YouTubeYouTube | Scott D. Clary - Success Story Podcast
+The Complete Wireshark Course Beginner To Advanced [Complete Course] 
+
+Pinned by S (Huess) Williams
+
+
+Shafan Sugarman
+  9:03 AM
+PDF 
+
+nistspecialpublication800-144.pdf
+PDF
+
+
+
+
+Shafan Sugarman
+  9:21 AM
+https://youtu.be/7utwZYKweho
+https://youtu.be/24fHLWXGS-M
+https://youtu.be/fNzpcB7ODxQ
+YouTubeYouTube | The Cyber Mentor
+Python for Beginners - Full Course 
+
+YouTubeYouTube | The Cyber Mentor
+Beginner Web Application Hacking (Full Course) 
+
+YouTubeYouTube | The Cyber Mentor
+Ethical Hacking in 12 Hours - Full Course - Learn to Hack! 
+
+9:21
+https://youtu.be/U1w4T03B30I
+YouTubeYouTube | The Cyber Mentor
+Linux for Ethical Hackers (2022 - Full Kali Linux Course) 
+
+
+
+Shafan Sugarman
+  9:31 AM
+@channel https://www.wireshark.org/download.html
+
+
+Adam Riddick
+  12:59 PM
+Some podcasts for daily Cyber Security headlines/Alerts:
+12:59
+https://cisoseries.com/category/podcast/cyber-security-headlines/
+CISO SeriesCISO Series
+Cyber Security Headlines Archives - CISO Series
+  Cyber Security Headlines is a six-minute news podcast available every weekday at 6 A.M. ET. At the end of the week (Fridays at 3:30 P.M. ET) we invite a security practitioner to comment on the top stories on the companion Week in Review show (20 minutes) where viewers can participate live. Week in Review also made available via podcast feed. Subscribe Apple Podcasts Spotify Google Podcasts Stitcher RSS Add as Alexa Skill Join our live Week in Review show every Friday at 3:30 P.M. ET | 12:30 P.M. PT
+https://cisoseries.com/category/podcast/cyber-security-headlines/
+
+12:59
+https://thecyberwire.com/podcasts/cisa-cybersecurity-alerts
+The CyberWireThe CyberWire
+CISA Cybersecurity Alerts
+Joint cybersecurity advisories from the US Government about major cybersecurity threats, vulnerabilities, and exploits, technical and operational information, indicators of compromise, and mitigations. (218 kB)
+
+
+varn:aws:kms:us-west-2:132095738565:key/2f84c097-ff9b-4898-97b9-70ce59789dae
